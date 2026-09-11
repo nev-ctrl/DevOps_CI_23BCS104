@@ -6,3 +6,5 @@ def add(a, b):
 
 if __name__ == "__main__":
     print(greet())
+def multiply(a, b):
+    return a * b
