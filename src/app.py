@@ -8,3 +8,5 @@ if __name__ == "__main__":
     print(greet())
 def multiply(a, b):
     return a * b
+def subtract(a, b):
+    return a - b

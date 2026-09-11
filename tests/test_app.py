@@ -12,3 +12,5 @@ if __name__ == "__main__":
     unittest.main()
 def test_multiply(self):
         self.assertEqual(multiply(3, 4), 12)
+def test_subtract(self):
+        self.assertEqual(subtract(10, 4), 6)
